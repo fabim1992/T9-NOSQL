@@ -7,9 +7,9 @@
 
 ## IDENTIFICAÇÃO DO ALUNO
 
-**Nome completo:** _______________________________________________ 
-**Matrícula:** ____________________ 
-**Email:** ________________________________________
+**Nome completo:** Fabio Carneiro Albuquerque Junior 
+**Matrícula:** 2651190
+**Email:** fabiojunior_1992@hotmail.com
 
 ---
 
